@@ -32,6 +32,8 @@ I thought the ants would like sweet and sugary food.
 
 #### Results
 
+View the data [here](data.csv).
+
 ![](http://i.imgur.com/T8NVy77.png)
 
 #### Selected Photographs
