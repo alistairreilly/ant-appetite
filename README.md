@@ -48,3 +48,4 @@ Ants like to eat honey!
 
 * Thank you mommy for buying all the food for the ants.
 * Thank you daddy for helping me with the computer.
+* Thank you ants for helping me science.
