@@ -47,4 +47,4 @@ Ants like to eat honey!
 #### Acknowledgements
 
 * Thank you mommy for buying all the food for the ants.
-* Thank you daddy for helping me with the computer
+* Thank you daddy for helping me with the computer.
